@@ -1,0 +1,22 @@
+{
+    "name": "GooeyTheme",
+    "displayName": "GooeyTheme",
+    "description": "Gooey Theme based on @bookerCodes colorTheme",
+    "version": "0.0.1",
+    "publisher": "TheMartes",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gooey",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gooey-color-theme.json"
+            }
+        ]
+    }
+}
