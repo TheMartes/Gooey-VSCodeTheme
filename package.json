@@ -1,9 +1,14 @@
 {
     "name": "GooeyTheme",
-    "displayName": "GooeyTheme",
+    "displayName": "Gooey Theme",
     "description": "Gooey Theme based on @bookerCodes colorTheme",
     "version": "0.0.1",
+    "icon": "media/logo.png",
     "publisher": "TheMartes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheMartes/Gooey-VSCodeTheme.git"
+    },
     "engines": {
         "vscode": "^1.26.0"
     },
